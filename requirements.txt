@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+passporteye
+transformers
+scikit-image
+numpy
+opencv-python
+pillow
+nltk
